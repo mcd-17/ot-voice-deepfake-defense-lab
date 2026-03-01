@@ -104,10 +104,11 @@ Each scenario includes:
 
 <img width="1872" height="1401" alt="image" src="https://github.com/user-attachments/assets/0259f9c8-9955-4915-944d-d6fd95323b61" />
 
+<img width="1941" height="1311" alt="Screenshot 2026-03-02 040539" src="https://github.com/user-attachments/assets/c479e9d7-a028-492b-8397-464ea262fd2c" />
 
-![Uploading image.png…]()
+<img width="1918" height="1297" alt="Screenshot 2026-03-02 040607" src="https://github.com/user-attachments/assets/779ad544-8012-4ceb-900a-99a1a1751be1" />
 
-![Uploading image.png…]()
+<img width="1946" height="1408" alt="Screenshot 2026-03-02 040634" src="https://github.com/user-attachments/assets/d3f2a086-e37b-49f7-8daf-fb97ac63822f" />
 
 
 
@@ -130,20 +131,3 @@ Each scenario includes:
 Industrial Cybersecurity Researcher  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🖥 System Architecture
