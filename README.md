@@ -104,6 +104,8 @@ Each scenario includes:
 
 <img width="1872" height="1401" alt="image" src="https://github.com/user-attachments/assets/0259f9c8-9955-4915-944d-d6fd95323b61" />
 
+<img width="1820" height="1456" alt="Screenshot 2026-03-02 040503" src="https://github.com/user-attachments/assets/ac220faf-3842-4e1c-a8a1-d33ff44dd76e" />
+
 <img width="1941" height="1311" alt="Screenshot 2026-03-02 040539" src="https://github.com/user-attachments/assets/c479e9d7-a028-492b-8397-464ea262fd2c" />
 
 <img width="1918" height="1297" alt="Screenshot 2026-03-02 040607" src="https://github.com/user-attachments/assets/779ad544-8012-4ceb-900a-99a1a1751be1" />
