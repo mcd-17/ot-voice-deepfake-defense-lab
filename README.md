@@ -128,7 +128,6 @@ Each scenario includes:
 
 **Darshana M Chigari**  
 Industrial Cybersecurity Researcher  
-OT Security | AI Threat Modeling | ICS Defense Architecture  
 
 
 
